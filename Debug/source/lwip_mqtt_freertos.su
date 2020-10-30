@@ -5,7 +5,7 @@ lwip_mqtt_freertos.c:209:13:mqtt_subscribe_topics	40	static
 lwip_mqtt_freertos.c:241:13:mqtt_connection_cb	32	static
 lwip_mqtt_freertos.c:287:13:connect_to_mqtt	24	static
 lwip_mqtt_freertos.c:300:13:mqtt_message_published_cb	24	static
-lwip_mqtt_freertos.c:317:13:publish_message	48	static
-lwip_mqtt_freertos.c:361:13:app_thread	32	static
-lwip_mqtt_freertos.c:455:13:generate_client_id	48	static
-lwip_mqtt_freertos.c:476:5:main	56	static
+lwip_mqtt_freertos.c:317:13:publish_message	56	static
+lwip_mqtt_freertos.c:369:13:app_thread	32	static
+lwip_mqtt_freertos.c:465:13:generate_client_id	48	static
+lwip_mqtt_freertos.c:486:5:main	56	static
